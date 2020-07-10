@@ -2,6 +2,6 @@
 
 I was thasked to develop a logistics management system
 
-## What I have Learned
+## What I have learned
 
 Loading data from files, securing the program for future proof use
